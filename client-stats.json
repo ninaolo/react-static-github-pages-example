@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "3.12.0",
-  "hash": "6837a4130b352411bfe3",
-  "time": 6838,
-  "publicPath": "/",
+  "hash": "d824ac3c56593b32c876",
+  "time": 6098,
+  "publicPath": "https://ninaolo.github.io/react-static-github-pages-example/",
   "assetsByChunkName": {
     "src/containers/Home": "templates/src/containers/Home.900c406e.js",
     "src/containers/Post": "templates/src/containers/Post.15cdd7df.js",
@@ -12,11 +12,11 @@
     "src/containers/About": "templates/src/containers/About.48e7e8b3.js",
     "src/containers/404": "templates/src/containers/404.78fd131c.js",
     "main": [
-      "main.6741fffc.js",
-      "styles.6837a413.css",
-      "styles.6837a413.css.map"
+      "main.7127de40.js",
+      "styles.d824ac3c.css",
+      "styles.d824ac3c.css.map"
     ],
-    "bootstrap": "bootstrap.93030e61.js"
+    "bootstrap": "bootstrap.9b93ad33.js"
   },
   "assets": [
     {
@@ -82,8 +82,8 @@
       "emitted": true
     },
     {
-      "name": "main.6741fffc.js",
-      "size": 266859,
+      "name": "main.7127de40.js",
+      "size": 267292,
       "chunks": [
         5
       ],
@@ -94,8 +94,8 @@
       "isOverSizeLimit": true
     },
     {
-      "name": "bootstrap.93030e61.js",
-      "size": 1570,
+      "name": "bootstrap.9b93ad33.js",
+      "size": 1629,
       "chunks": [
         6
       ],
@@ -105,7 +105,7 @@
       "emitted": true
     },
     {
-      "name": "styles.6837a413.css",
+      "name": "styles.d824ac3c.css",
       "size": 383,
       "chunks": [
         5
@@ -116,7 +116,7 @@
       "emitted": true
     },
     {
-      "name": "styles.6837a413.css.map",
+      "name": "styles.d824ac3c.css.map",
       "size": 96,
       "chunks": [
         5
@@ -135,10 +135,10 @@
         5
       ],
       "assets": [
-        "bootstrap.93030e61.js",
-        "main.6741fffc.js",
-        "styles.6837a413.css",
-        "styles.6837a413.css.map"
+        "bootstrap.9b93ad33.js",
+        "main.7127de40.js",
+        "styles.d824ac3c.css",
+        "styles.d824ac3c.css.map"
       ],
       "isOverSizeLimit": true
     }
@@ -590,11 +590,11 @@
         "main"
       ],
       "files": [
-        "main.6741fffc.js",
-        "styles.6837a413.css",
-        "styles.6837a413.css.map"
+        "main.7127de40.js",
+        "styles.d824ac3c.css",
+        "styles.d824ac3c.css.map"
       ],
-      "hash": "6741fffc69df7361a6c4",
+      "hash": "7127de40d442c5e2fd41",
       "parents": [
         6
       ],
@@ -2097,9 +2097,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/Nina/git/react-static-github-pages-example/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/Users/Nina/git/react-static-github-pages-example/dist/react-static-routes.js",
-          "issuerId": 130,
-          "issuerName": "./dist/react-static-routes.js",
+          "issuer": "/Users/Nina/git/react-static-github-pages-example/node_modules/react-static/lib/client/components/RouteData.js",
+          "issuerId": 92,
+          "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -3529,9 +3529,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/Users/Nina/git/react-static-github-pages-example/node_modules/react-router/es/matchPath.js",
-          "issuerId": 21,
-          "issuerName": "./node_modules/react-router/es/matchPath.js",
+          "issuer": "/Users/Nina/git/react-static-github-pages-example/node_modules/react-router/es/generatePath.js",
+          "issuerId": 34,
+          "issuerName": "./node_modules/react-router/es/generatePath.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -7533,9 +7533,9 @@
         "bootstrap"
       ],
       "files": [
-        "bootstrap.93030e61.js"
+        "bootstrap.9b93ad33.js"
       ],
-      "hash": "93030e6178cabdb6f44e",
+      "hash": "9b93ad33e670bf332359",
       "parents": [],
       "modules": [],
       "filteredModules": 0,
@@ -9041,9 +9041,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/Nina/git/react-static-github-pages-example/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/Users/Nina/git/react-static-github-pages-example/dist/react-static-routes.js",
-      "issuerId": 130,
-      "issuerName": "./dist/react-static-routes.js",
+      "issuer": "/Users/Nina/git/react-static-github-pages-example/node_modules/react-static/lib/client/components/RouteData.js",
+      "issuerId": 92,
+      "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -10473,9 +10473,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/Users/Nina/git/react-static-github-pages-example/node_modules/react-router/es/matchPath.js",
-      "issuerId": 21,
-      "issuerName": "./node_modules/react-router/es/matchPath.js",
+      "issuer": "/Users/Nina/git/react-static-github-pages-example/node_modules/react-router/es/generatePath.js",
+      "issuerId": 34,
+      "issuerName": "./node_modules/react-router/es/generatePath.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -14733,7 +14733,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "https://ninaolo.github.io/react-static-github-pages-example/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -14759,7 +14759,7 @@
           "files": [
             "extract-text-webpack-plugin-output-filename"
           ],
-          "hash": "096339cca08a87420cad",
+          "hash": "b33f11e51563d20e4696",
           "parents": [],
           "modules": [
             {
