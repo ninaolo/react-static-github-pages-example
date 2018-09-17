@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "3.12.0",
-  "hash": "d824ac3c56593b32c876",
-  "time": 6098,
-  "publicPath": "https://ninaolo.github.io/react-static-github-pages-example/",
+  "hash": "a728da41834bad810f0b",
+  "time": 5529,
+  "publicPath": "https://ninaolo.github.io/",
   "assetsByChunkName": {
     "src/containers/Home": "templates/src/containers/Home.900c406e.js",
     "src/containers/Post": "templates/src/containers/Post.15cdd7df.js",
@@ -12,11 +12,11 @@
     "src/containers/About": "templates/src/containers/About.48e7e8b3.js",
     "src/containers/404": "templates/src/containers/404.78fd131c.js",
     "main": [
-      "main.7127de40.js",
-      "styles.d824ac3c.css",
-      "styles.d824ac3c.css.map"
+      "main.2b592463.js",
+      "styles.a728da41.css",
+      "styles.a728da41.css.map"
     ],
-    "bootstrap": "bootstrap.9b93ad33.js"
+    "bootstrap": "bootstrap.096bcaeb.js"
   },
   "assets": [
     {
@@ -82,8 +82,8 @@
       "emitted": true
     },
     {
-      "name": "main.7127de40.js",
-      "size": 267292,
+      "name": "main.2b592463.js",
+      "size": 266984,
       "chunks": [
         5
       ],
@@ -94,8 +94,8 @@
       "isOverSizeLimit": true
     },
     {
-      "name": "bootstrap.9b93ad33.js",
-      "size": 1629,
+      "name": "bootstrap.096bcaeb.js",
+      "size": 1595,
       "chunks": [
         6
       ],
@@ -105,7 +105,7 @@
       "emitted": true
     },
     {
-      "name": "styles.d824ac3c.css",
+      "name": "styles.a728da41.css",
       "size": 383,
       "chunks": [
         5
@@ -116,7 +116,7 @@
       "emitted": true
     },
     {
-      "name": "styles.d824ac3c.css.map",
+      "name": "styles.a728da41.css.map",
       "size": 96,
       "chunks": [
         5
@@ -135,10 +135,10 @@
         5
       ],
       "assets": [
-        "bootstrap.9b93ad33.js",
-        "main.7127de40.js",
-        "styles.d824ac3c.css",
-        "styles.d824ac3c.css.map"
+        "bootstrap.096bcaeb.js",
+        "main.2b592463.js",
+        "styles.a728da41.css",
+        "styles.a728da41.css.map"
       ],
       "isOverSizeLimit": true
     }
@@ -590,11 +590,11 @@
         "main"
       ],
       "files": [
-        "main.7127de40.js",
-        "styles.d824ac3c.css",
-        "styles.d824ac3c.css.map"
+        "main.2b592463.js",
+        "styles.a728da41.css",
+        "styles.a728da41.css.map"
       ],
-      "hash": "7127de40d442c5e2fd41",
+      "hash": "2b592463cc2b2a2e6b83",
       "parents": [
         6
       ],
@@ -7533,9 +7533,9 @@
         "bootstrap"
       ],
       "files": [
-        "bootstrap.9b93ad33.js"
+        "bootstrap.096bcaeb.js"
       ],
-      "hash": "9b93ad33e670bf332359",
+      "hash": "096bcaebfd9ab31a0b47",
       "parents": [],
       "modules": [],
       "filteredModules": 0,
@@ -14733,7 +14733,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "https://ninaolo.github.io/react-static-github-pages-example/",
+      "publicPath": "https://ninaolo.github.io/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -14759,7 +14759,7 @@
           "files": [
             "extract-text-webpack-plugin-output-filename"
           ],
-          "hash": "b33f11e51563d20e4696",
+          "hash": "5ef7093bd9c831a5de02",
           "parents": [],
           "modules": [
             {

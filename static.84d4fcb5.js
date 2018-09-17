@@ -67,7 +67,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "https://ninaolo.github.io/react-static-github-pages-example/";
+/******/ 	__webpack_require__.p = "https://ninaolo.github.io/";
 /******/
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(__webpack_require__.s = 10);
@@ -1528,4 +1528,4 @@ function toComment(sourceMap) {
 /***/ })
 /******/ ]);
 });
-//# sourceMappingURL=static.df26a47d.js.map
+//# sourceMappingURL=static.84d4fcb5.js.map
