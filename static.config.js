@@ -4,7 +4,7 @@ export default {
   siteRoot: "https://ninaolo.github.io",
   basePath: "react-static-github-pages-example",
   getSiteData: () => ({
-    title: 'React Static',
+    title: 'React Static + Github Pages Example',
   }),
   getRoutes: async () => {
     const { data: posts } = await axios.get('https://jsonplaceholder.typicode.com/posts')
