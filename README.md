@@ -1,10 +1,7 @@
-# React-Static - Basic Example
+# React-Static Github Pages Example
 
-This example is the most basic version of react-static available. It includes:
-- Babel
-- CSS imports
-- Image imports
-- File imports
-- Automatic Routing
+This repository shows an example of a basic [react-static](https://github.com/nozzle/react-static) boilerplate application deployed to [Github pages](https://pages.github.com/).
 
-To get started, run `react-static create` and use the `basic` template.
+The site is available at: [https://ninaolo.github.io/react-static-github-pages-example]().
+
+
