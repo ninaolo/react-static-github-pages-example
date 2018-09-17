@@ -1,6 +1,8 @@
 import axios from 'axios'
 
 export default {
+  siteRoot: "https://ninaolo.github.io",
+  basePath: "react-static-github-pages-example",
   getSiteData: () => ({
     title: 'React Static',
   }),
